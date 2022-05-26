@@ -1,0 +1,50 @@
+{
+    "name": "co-purple",
+    "displayName": "Co-Purple",
+    "description": "A purpl-is theme!",
+    "publisher": "BisherAlmasri",
+    "version": "1.2.0",
+    "engines": {
+      "vscode": "^1.46.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bmayttvv/Co-Purple"
+    },
+    "bugs": {
+      "url": "https://github.com/bmayttvv/Co-Purple/issues"
+    },
+    "galleryBanner": {
+      "color": "#09131b",
+      "theme": "dark"
+    },
+    "icon": "img/icon/logo-250x250.png",
+    "categories": [
+      "Themes"
+    ],
+    "keywords": [
+      "purple",
+      "theme",
+      "Purple",
+      "Theme",
+      "Themes",
+      "themes",
+      "Violet",
+      "violet"
+    ],
+
+    "contributes": {
+        "themes": [
+          {
+            "label": "Co-Dark Purple",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Co-Dark Purple-color-theme.json"
+          },
+          {
+            "label": "Co-Dark Purple Light",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Co-Dark Purple-color-theme Light.json"
+          }
+        ]
+    }
+  }
