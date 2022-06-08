@@ -6,7 +6,7 @@ It is a mix of dark purple and black, and much more colors!
 * Simple coloring.
 * And much, much more!
 
-![N|Solid](/img/view1.png)
+![N|Solid](https://raw.githubusercontent.com/BisherAlmasri/Co-Dark-Purple/main/img/view1.png)
 
 ## Installation
 

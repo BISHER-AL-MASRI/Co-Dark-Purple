@@ -1,4 +1,3 @@
-<h1>Full Release</h1>
+<h1>Release Version 1.5.0</h1>
 
-* Added Light
-* Renamed Theme
+* Fixed Debug Issue

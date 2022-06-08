@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Co-Dark Purple",
+	"name": "Co-Dark Blue",
 	"semanticHighlighting": true,
 	"tokenColors": [
 	  {
@@ -130,6 +130,13 @@
 		}
 	  },
 	  {
+		"name": "Comment",
+		"scope": "comment",
+		"settings": {
+			"foreground": "#5e2c91"
+		}
+	},
+	  {
 		"name": "JSON key",
 		"scope": "meta.object-literal.key, meta.object-literal.key string, support.type.property-name.json",
 		"settings": {
@@ -219,7 +226,7 @@
 		"settings": {
 		  "foreground": "#6214a7"
 		}
-	  },
+	  },	
 	  {
 		"name": "Markdown Punctuation",
 		"scope": [
@@ -235,6 +242,7 @@
 		  "foreground": "#6735a0"
 		}
 	  },
+	  
 	  {
 		"name": "INI property name",
 		"scope": "keyword.other.definition.ini",
@@ -298,11 +306,11 @@
 	  "foreground": "#FFFFFF",
 	  "button.background": "#3c0a7dc3",
 	  "button.foreground": "#ffffff",
-	  "dropdown.background": "#0e1e2b",
+	  "dropdown.background": "#10002b",
 	  "input.background": "#1b0e3b",
 	  "inputOption.activeBorder": "#6c00a6",
-	  "list.activeSelectionBackground": "#972fff80",
-	  "list.activeSelectionForeground": "#FFFFFF",
+	  "list.activeSelectionBackground": "#c85afa80",
+	  "list.activeSelectionForeground": "#ffffff",
 	  "list.dropBackground": "#c42fff80",
 	  "list.focusBackground": "#972fff80",
 	  "list.focusForeground": "#FFFFFF",
@@ -362,6 +370,7 @@
 	  "debugToolBar.background": "#10002B",
 	  "selection.background": "#6a2fff",
 	  "sash.hoverBorder": "#b62fff",
+      "editorWidget.border": "#10002b",
       "editorError.foreground": "#ff0000",
 	}
   }
