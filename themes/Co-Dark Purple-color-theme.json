@@ -371,6 +371,7 @@
 	  "selection.background": "#6a2fff",
 	  "sash.hoverBorder": "#b62fff",
       "editorWidget.border": "#10002b",
+	  "activityBar.activeBorder": "#1a0342",
       "editorError.foreground": "#ff0000",
 	}
   }
