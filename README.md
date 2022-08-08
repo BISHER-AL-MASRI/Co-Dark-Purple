@@ -18,6 +18,6 @@ It is a mix of dark purple and black, and much more colors!
 
 ## Issues & Suggestions
 
-For any issues or suggestions, please use [GitHub issues](https://github.com/bmayttvv/Co-Purple/issues).
+For any issues or suggestions, please use [GitHub issues](https://github.com/BisherAlmasri/Co-Dark-Purple).
 
 **Enjoy!**
